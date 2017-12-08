@@ -11,6 +11,7 @@ node {
 
    }
 
+
    stage('Code') {
       git 'https://github.com/HarveyHe/wa_dema_test.git'
    }
