@@ -4,6 +4,7 @@ public class RunTest3 {
 	@org.junit.Before
 	public void test(){
 		System.out.println("sssssstttsss");
+		System.out.println("sssssstttsss");
 	}
 	
 }
